@@ -1,0 +1,23 @@
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-left: 0;
+    list-style: none;
+}
+img{
+    width: 240px;
+    height: 160px;
+}
+
+.stats{
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+}
+
+.material-icons{
+    font-size: 16px;
+}
